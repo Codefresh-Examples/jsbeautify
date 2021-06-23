@@ -4,7 +4,7 @@ The purpose of this example is to show how to write simple Orion plugin, extend 
 In this example we have developed very simple JS beautify plugin that will add menu item ('Beautify JS' under the 'Tools' drop down menu) that cab be executed on any .js file (visible when a JS file is opened).
 This implementation is also using Orion settings mechanism to extend the user experience by letting him select how to use the beautify logic.
  
-
+ 
  
 ## Code It
 
